@@ -12,7 +12,7 @@ All the data are located in the [spreadsheet Steve provided](./VBA_Challenge.xls
 
 ### Analysis
 
-After running the macro, within the 12 stocks selected by Steve, [all but one stock have positive returns in 2017.](./resources/Stocks_2017.png) Recommending to invest in these 12 stocks alone would be great, however, [if we were to look at the analysis in 2018].](./resources/Stocks_2018.png), a majority of the stocks have lost in returns. This would most likely prompt Steve to research on a lot more stocks, if not the entire stock market, to help his parents on investing.
+After running the macro, within the 12 stocks selected by Steve, [all but one stock have positive returns in 2017.](./resources/Stocks_2017.png) Recommending to invest in these 12 stocks alone would be great, however, [if we were to look at the analysis in 2018](./resources/Stocks_2018.png), a majority of the stocks have lost in returns. This would most likely prompt Steve to research on a lot more stocks, if not the entire stock market, to help his parents on investing.
 
 ## Summary
 
