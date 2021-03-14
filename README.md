@@ -12,7 +12,7 @@ All the data are located in the [spreadsheet Steve provided](./VBA_Challenge.xls
 
 ### Analysis
 
-After running the macro, within the 12 stocks selected by Steve, [all but one stock have positive returns in 2017.](./resources/Stocks_2017.png) Recommending to invest in these 12 stocks alone would be great, however, [if we were to look at the analysis in 2018](./resources/Stocks_2018.png), a majority of the stocks have lost in returns. This would most likely prompt Steve to research on a lot more stocks, if not the entire stock market, to help his parents on investing.
+After running the macro, within the 12 stocks selected by Steve, [all but one stock have positive returns in 2017.](./Resources/Stocks_2017.png) Recommending to invest in these 12 stocks alone would be great, however, [if we were to look at the analysis in 2018](./Resources/Stocks_2018.png), a majority of the stocks have lost in returns. This would most likely prompt Steve to research on a lot more stocks, if not the entire stock market, to help his parents on investing.
 
 ## Summary
 
@@ -24,4 +24,4 @@ The main disadvantages of refactoring code are time consumption and a higher cha
 
 ### Pros and Cons of refactoring the VBA script
 
-Comparing the run times for the [original code](./resources/Module_2_2018.png) versus the [refactored code](./resources/VBA_Challenge_2018.png), it is obvious that the refactored code is significantly faster. This is because the original code uses a nested loop, as stated above. This means the macro would have to loop through thousands of rows multiple times, which would make the process slower if more tickers were added. The only main disadvantage of refactoring is adding more variables and making sure to initialize their values at 0 when grabbing an analysis for a new year.
+Comparing the run times for the [original code](./Resources/Module_2_2018.png) versus the [refactored code](./Resources/VBA_Challenge_2018.png), it is obvious that the refactored code is significantly faster. This is because the original code uses a nested loop, as stated above. This means the macro would have to loop through thousands of rows multiple times, which would make the process slower if more tickers were added. The only main disadvantage of refactoring is adding more variables and making sure to initialize their values at 0 when grabbing an analysis for a new year.
